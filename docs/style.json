@@ -4,6 +4,7 @@
     2.0386
   ],
   "glyphs": "https://optgeo.github.io/kokoromi-so/font/{fontstack}/{range}.pbf",
+  "id": "kokoromi-so",
   "layers": [
     {
       "id": "background",
